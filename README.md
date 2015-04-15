@@ -10,7 +10,7 @@ Jika ada kesalahan dengan IP Address anda terlist disini mohon maaf, karena tida
 
 List data ini didapatkan dari : 
 
-- Failed Log Password di /var/log/secure atau auth.log
+- Failed Log Password di /var/log/secure
 - Kippo SSH Honeypot
 
 
